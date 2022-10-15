@@ -6,12 +6,12 @@
   <p align="center">
     Minions are cute and so is their talk! Enter your text to translate and have fun!
     <br />
-    <a href="https://replit.com/@SamyukthaPrabhu/LessonOneMarkTwo-Samyuktha?embed=1&output=1"><strong>Click here to play »</strong></a>
+    <a href="https://saminion.netlify.app/"><strong>Click here to play »</strong></a>
     <br />
     <br />
-    <a href="#"></a>
+    <a href=""></a>
     ·
-    <a href="https://github.com/samyuktaprabhu/neogcamp-lesson-one-mark-two/issues">Report Bugs [OR] Report Issues</a>
+    <a href="https://github.com/samyuktaprabhu/neogcamp-lesson-four-mark-six/issues">Report Bugs [OR] Report Issues</a>
     ·
 </div>
 
